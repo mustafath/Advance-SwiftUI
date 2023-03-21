@@ -13,6 +13,7 @@
 		93BACC0B29C8B66E00F34E06 /* ViewModifierBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93BACC0A29C8B66E00F34E06 /* ViewModifierBootcamp.swift */; };
 		93BACC0D29C8C04F00F34E06 /* ButtonStyleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93BACC0C29C8C04F00F34E06 /* ButtonStyleBootcamp.swift */; };
 		93BACC0F29C8C86300F34E06 /* AnyTransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93BACC0E29C8C86300F34E06 /* AnyTransitionBootcamp.swift */; };
+		93BACC2B29CA155900F34E06 /* MatchedGeometryEffect.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93BACC2A29CA155900F34E06 /* MatchedGeometryEffect.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		93BACC0A29C8B66E00F34E06 /* ViewModifierBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModifierBootcamp.swift; sourceTree = "<group>"; };
 		93BACC0C29C8C04F00F34E06 /* ButtonStyleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStyleBootcamp.swift; sourceTree = "<group>"; };
 		93BACC0E29C8C86300F34E06 /* AnyTransitionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyTransitionBootcamp.swift; sourceTree = "<group>"; };
+		93BACC2A29CA155900F34E06 /* MatchedGeometryEffect.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchedGeometryEffect.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				93BACC0A29C8B66E00F34E06 /* ViewModifierBootcamp.swift */,
 				93BACC0C29C8C04F00F34E06 /* ButtonStyleBootcamp.swift */,
 				93BACC0E29C8C86300F34E06 /* AnyTransitionBootcamp.swift */,
+				93BACC2A29CA155900F34E06 /* MatchedGeometryEffect.swift */,
 				93BACC0029C8B61800F34E06 /* Assets.xcassets */,
 				93BACC0229C8B61800F34E06 /* Preview Content */,
 			);
@@ -147,6 +150,7 @@
 				93BACC0B29C8B66E00F34E06 /* ViewModifierBootcamp.swift in Sources */,
 				93BACC0F29C8C86300F34E06 /* AnyTransitionBootcamp.swift in Sources */,
 				93BACBFD29C8B61700F34E06 /* SwiftulLearningAdvancedLearninApp.swift in Sources */,
+				93BACC2B29CA155900F34E06 /* MatchedGeometryEffect.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
