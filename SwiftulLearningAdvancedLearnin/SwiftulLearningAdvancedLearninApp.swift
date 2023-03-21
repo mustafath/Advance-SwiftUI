@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftulLearningAdvancedLearninApp: App {
     var body: some Scene {
         WindowGroup {
-            MatchedGeometryEffectExample2()
+            CustomShapesBootcamp()
         }
     }
 }
