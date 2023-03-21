@@ -10,9 +10,9 @@ This repository contains the code and resources for the SwiftUI Advanced Learnin
  ✅ How to create custom ViewModifiers in SwiftUI | Advanced Learning #1 <br>
  ✅ How to create custom ButtonStyles in SwiftUI | Advanced Learning #2 <br>
  ✅ How to create custom Transitions in SwiftUI | Advanced Learning #3 <br>
- ☑️ How to use MatchedGeometryEffect in SwiftUI | Advanced Learning #4 <br>
- ☑️ Custom Shapes in SwiftUI | Advanced Learning #5<br>
- ☑️ Custom shapes with Arcs and Quad Curves in SwiftUI | Advanced Learning #6 <br>
+ ✅ How to use MatchedGeometryEffect in SwiftUI | Advanced Learning #4 <br>
+ ✅ Custom Shapes in SwiftUI | Advanced Learning #5<br>
+ ✅ Custom shapes with Arcs and Quad Curves in SwiftUI | Advanced Learning #6 <br>
  ☑️ Animate Custom shapes with AnimateableData in SwiftUI | Advanced Learning #7 <br>
 <h3>Section 3: Advanced Swift Techniques</h3>
  ☑️ How to use Generics in Swift | Advanced Learning #8 <br>
